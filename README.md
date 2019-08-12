@@ -8,7 +8,7 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 * [Mathematics](#Mathematics)
-  * [Built With](#built-with)
+  * [Calculus I](#Calculus I)
 * [Physics](#Physics)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
