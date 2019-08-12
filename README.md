@@ -35,7 +35,7 @@
   * [Organic Chemistry](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Organic-Chemistry)
   * [Inorganic Chemistry](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Inorganic-Chemistry)
   * [Physical Chemistry](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Physical-Chemistry)
-  * [Everything-chemistry](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Everything-chemistry)
+  * [Everything Chemistry](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Everything-chemistry)
 * [Computer Science](https://github.com/Vanillj/Youtube-courses-for-engineering-students#computer-science)
 * [Programming](https://github.com/Vanillj/Youtube-courses-for-engineering-students#programming)
   * [C](https://github.com/Vanillj/Youtube-courses-for-engineering-students#C)
@@ -178,6 +178,7 @@
 - [lasseviren1](https://www.youtube.com/user/lasseviren1/videos)
 - [Adam Beatty](https://www.youtube.com/user/youspinmerightrounds/playlists)
 - [TheBom_PE](https://www.youtube.com/channel/UCpDljJAHaKMakrQFFX5fRDg/playlists?view=1&sort=dd&shelf_id=0)
+- [NPTEL](https://www.youtube.com/user/nptelhrd/playlists)
 
 <!-- Economy -->
 ## Economy
@@ -203,13 +204,18 @@
 <!-- Computer Science -->
 ## Computer Science
 - [Neso Academy](https://www.youtube.com/user/nesoacademy/playlists?view=50&sort=dd&shelf_id=13)
+- [mycodeschool](https://www.youtube.com/user/mycodeschool/playlists)
 
 <!-- Programmng -->
 ## Programming
 ### C
 - [Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM)
+- mycodeschool
+  - [Introduction to Programming through 'C'](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLSqGsERZGXGkA5AfMhcknE)
+  - [Pointers in C/C++](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_)
 ### C++
 - [thenewboston](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83)
+- [mycodeschool: Pointers in C/C++](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_)
 ### Java
 - [Derek Banas](https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19)
 ### Python
