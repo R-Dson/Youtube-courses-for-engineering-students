@@ -218,4 +218,4 @@
 <!-- LICENSE -->
 ## License
 
-Distributed under the "The Unlicense" License. See `LICENSE` for more information.
+Distributed under the "Unlicense" License. See `LICENSE` for more information.
