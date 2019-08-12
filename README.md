@@ -47,45 +47,175 @@
 <!-- Mathematics -->
 ## Mathematics
 ### Calculus I
+- [patrickJMT](https://www.youtube.com/playlist?list=PL58C7BA6C14FD8F48)
+- Professor Leonard 
+  - [Full videos.](https://www.youtube.com/playlist?list=PLF797E961509B4EB5)
+  - [Playlist 1.](https://www.youtube.com/playlist?list=PLD7F5E25BF583F56B)
+  - [Playlist 2.](https://www.youtube.com/playlist?list=PLF0621D7720431053)
+- [The Organic Chemistry Tutor](https://www.youtube.com/playlist?list=PL0o_zxa4K1BWYThyV4T2Allw6zY0jEumv)
+- [MathDoctorBob](https://www.youtube.com/user/MathDoctorBob/playlists)
+- [blackpenredpen](https://www.youtube.com/user/blackpenredpen/playlists)
+- [Krista King](https://www.youtube.com/user/TheIntegralCALC/playlists?view=50&flow=grid&shelf_id=22)
+- [Jamie Mulholland](https://www.youtube.com/channel/UCOZJyVA526SlYB7e-p5RRMg/playlists?view=50&sort=dd&shelf_id=6)
+- [NancyPi](https://www.youtube.com/channel/UCRGXV1QlxZ8aucmE45tRx8w/playlists)
 ### Calculus II
+- [patrickJMT](https://www.youtube.com/playlist?list=PLD371506BCA23A437)
+- [Professor Leonard](https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-)
+- [The Organic Chemistry Tutor](https://www.youtube.com/playlist?list=PL0o_zxa4K1BWYThyV4T2Allw6zY0jEumv)
+- [MathDoctorBob](https://www.youtube.com/user/MathDoctorBob/playlists)
+- [blackpenredpen](https://www.youtube.com/user/blackpenredpen/playlists)
+- [Krista King](https://www.youtube.com/user/TheIntegralCALC/playlists?view=50&flow=grid&shelf_id=23)
+- [Jamie Mulholland](https://www.youtube.com/channel/UCOZJyVA526SlYB7e-p5RRMg/playlists?view=50&sort=dd&shelf_id=3)
+- [NancyPi](https://www.youtube.com/channel/UCRGXV1QlxZ8aucmE45tRx8w/playlists)
 ### Calculus III
+- [patrickJMT](https://www.youtube.com/playlist?list=PLF83D74BA4DE75897)
+- [Professor Leonard](https://www.youtube.com/playlist?list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7)
+- [The Organic Chemistry Tutor](https://www.youtube.com/playlist?list=PL0o_zxa4K1BWYThyV4T2Allw6zY0jEumv)
+- [MathDoctorBob](https://www.youtube.com/user/MathDoctorBob/playlists)
+- [blackpenredpen](https://www.youtube.com/user/blackpenredpen/playlists)
+- [Krista King](https://www.youtube.com/user/TheIntegralCALC/playlists?view=50&flow=grid&shelf_id=24)
 ### Linear Algebra
+- [patrickJMT](https://www.youtube.com/playlist?list=PLAFEC355DFEADC30C)
+- [MIT Linear Algebra Lectures (Prof. Gilbert Strang)](https://www.youtube.com/playlist?list=PL41A1C92F1766D4AB)
+- [MathDoctorBob](https://www.youtube.com/playlist?list=PL774A268635BA8AAD)
+- [3B1B](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 ### Differential Equations
+- [patrickJMT](https://www.youtube.com/playlist?list=PLD4B0062CA82D73FB)
+- [Professor Leonard](https://www.youtube.com/playlist?list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_)
+- [3B1B](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
+- [MathDoctorBob](https://www.youtube.com/playlist?list=PLA7FDE7518E52863A)
 ### Statistics
+- Professor Leonard
+  - [Statistics Playlist 1.](https://www.youtube.com/playlist?list=PL5901C68C96DFCAD1)
+- [MathDoctorBob](https://www.youtube.com/playlist?list=PL39A63114C97E5C10)
+- [The Organic Chemistry Tutor](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV)
 ### Discrete Math
+- TheTrevTutor
+  - [Discrete Math 1.](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
+  - [Discrete Math 2.](https://www.youtube.com/playlist?list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2)
 ### Complex Analysis
+- [MathsStatsUNSW](https://www.youtube.com/playlist?list=PLHjOMouVJ7UXj9RqccYzktlz9DQdE6l66)
 
+<!-- Physics -->
 ## Physics
 ### Statics
+- [Jeff Hanson](https://www.youtube.com/playlist?list=PLRqDfxcafc23LXGoItpkYMKtUdHaQwSDC)
+- structurefree
+  - [statics.](https://www.youtube.com/playlist?list=PL6474BBA9E3FC8FDC)
+  - [Structural Analysis](https://www.youtube.com/playlist?list=PL1DE2AA99E4258070)
+- Engineer4Free
+  - [Statics.](https://www.youtube.com/playlist?list=PLOAuB8dR35oeXMk2C5fjHP2K306hGfk_w)
+  - [Structural Analysis.](https://www.youtube.com/playlist?list=PLOAuB8dR35oe8lcGo-ic-f5HdxpXEanvb)
+- [FinalAnswer](https://www.youtube.com/user/daxterbelstutoring/playlists?view=50&sort=dd&shelf_id=2)
+- [CPPMechEngTutorials](https://www.youtube.com/playlist?list=PLZOZfX_TaWAEzhyvNT1e9jbmTt4Eqo8C0)
+- [UWMC Engineering](https://www.youtube.com/playlist?list=PLmjeuPDHP7zD7ogEGP0aaBDqYDAVu-yT3)
+- [Randall Manteufel](https://www.youtube.com/playlist?list=PL_ZIJMd-rNhX5-pdt6M1tfHCdym4SdFXW)
 ### Dynamics
+- structurefree
+  - [Engineering Dynamics.](https://www.youtube.com/playlist?list=PL81251F4A3D0AF09B)
+  - [Structural Dynamics.](https://www.youtube.com/playlist?list=PLOr3fZwA0ZzIIXOFcY5t6Zk1PxhhzTrvX)
+- [FinalAnswer](https://www.youtube.com/user/daxterbelstutoring/playlists?view=50&sort=dd&shelf_id=3)
+- [Jeff Hanson](https://www.youtube.com/playlist?list=PLRqDfxcafc206fNQPkcBUFEMYje-UjtqA)
+- [CPPMechEngTutorials](https://www.youtube.com/playlist?list=PLZOZfX_TaWAEzhyvNT1e9jbmTt4Eqo8C0)
+- [UWMC Engineering](https://www.youtube.com/playlist?list=PLmjeuPDHP7zCJnea2qRaf74yDxSuMCK_t)
+- [TheBom_PE](https://www.youtube.com/playlist?list=PL1IHA35xY5H6G64khh8fcNkjVJDGMqrHo)
 ### Waves and Optic
+- [Adam Beatty](https://www.youtube.com/playlist?list=PL610B4A2EC43A9434)
+- [Michel van Biezen](https://www.youtube.com/playlist?list=PLX2gX-ftPVXWA5TjEhVQSQQzZ-5_5Nui8)
+- [Tutorials Point (India) Pvt. Ltd.](https://www.youtube.com/playlist?list=PLWPirh4EWFpFWhPippga6iLmdE0MmSC4o)
 ### Thermodynamics I
+- [CPPMechEngTutorials](https://www.youtube.com/playlist?list=PLZOZfX_TaWAH3zDurz4ds7jMFzhxhfKZV)
+- [Randall Manteufel](https://www.youtube.com/playlist?list=PL_ZIJMd-rNhUYw-usVCZIdoTaiyG4vp2S)
+- [LearnChemE](https://www.youtube.com/user/LearnChemE/playlists?view=50&flow=grid&shelf_id=11)
+- [Ron Hugo](https://www.youtube.com/channel/UCrRKDc1uHcif575CQexIA5Q/playlists?view=50&flow=grid&shelf_id=5)
+- [UWMC Engineering](https://www.youtube.com/playlist?list=PLmjeuPDHP7zAgkbNhvk8l9udV5Uu9Uxas)
 ### Thermodynamics II
+- [CPPMechEngTutorials](https://www.youtube.com/playlist?list=PLZOZfX_TaWAEraLrZ71gGVWTtzf4SmVTJ)
+- [Randall Manteufel](https://www.youtube.com/playlist?list=PL_ZIJMd-rNhW1hjzP9PexTRYzQR9Micsq)
+- [LearnChemE](https://www.youtube.com/user/LearnChemE/playlists?view=50&flow=grid&shelf_id=11)
+- [Ron Hugo](https://www.youtube.com/channel/UCrRKDc1uHcif575CQexIA5Q/playlists?view=50&flow=grid&shelf_id=5)
+- [UWMC Engineering](https://www.youtube.com/playlist?list=PLmjeuPDHP7zAgkbNhvk8l9udV5Uu9Uxas)
 ### Fluid Mechanics I
+- CPPMechEngTutorials
+  - [Fluid Mechanics I](https://www.youtube.com/playlist?list=PLZOZfX_TaWAGocs2k5QmTL44OKOl7rn34)
+  - [Fluid Mechanics](https://www.youtube.com/playlist?list=PLZOZfX_TaWAH0baRhA8OosWVbEsJK5sPe)
+- [Randall Manteufel](https://www.youtube.com/playlist?list=PL_ZIJMd-rNhUU3-ED5_yT8LXEnSCw6Wy2)
+- [LearnChemE](https://www.youtube.com/user/LearnChemE/playlists?view=50&flow=grid&shelf_id=5)
+- [Ron Hugo](https://www.youtube.com/channel/UCrRKDc1uHcif575CQexIA5Q/playlists?view=1&sort=dd&shelf_id=0)
 ### Fluid Mechanics II
+- [CPPMechEngTutorials](https://www.youtube.com/playlist?list=PLZOZfX_TaWAE7uM59dIBr-rH73WTJCcp_)
+- [LearnChemE](https://www.youtube.com/user/LearnChemE/playlists?view=50&flow=grid&shelf_id=5)
 ### Strength of Materials I
+- [CPPMechEngTutorials](https://www.youtube.com/playlist?list=PLZOZfX_TaWAEg1XjZ1fkUxT0XMB_Nq7hV)
+- [structurefree](https://www.youtube.com/playlist?list=PLCBF826FE563C57B0)
+- [UWMC Engineering](https://www.youtube.com/playlist?list=PLmjeuPDHP7zCvwGxZUxQcmRxMFdP5DQOh)
 ### Strength of Materials II
+- [CPPMechEngTutorials](https://www.youtube.com/playlist?list=PLZOZfX_TaWAEf5gEjbpazpRTVp2-OzJEv)
+- [structurefree](https://www.youtube.com/playlist?list=PLCBF826FE563C57B0)
+- [UWMC Engineering](https://www.youtube.com/playlist?list=PLmjeuPDHP7zCvwGxZUxQcmRxMFdP5DQOh)
 ### Heat Transfer
+- [CPPMechEngTutorials](https://www.youtube.com/playlist?list=PLZOZfX_TaWAE6nTX50dJl0Jia8iQTIhrG)
+- [Randall Manteufel](https://www.youtube.com/playlist?list=PL_ZIJMd-rNhUm2lvq1GY21Y8U5mJnDdAH)
+- [LearnChemE](https://www.youtube.com/playlist?list=PL242066E80621CC10)
+- [Ron Hugo](https://www.youtube.com/channel/UCrRKDc1uHcif575CQexIA5Q/playlists?view=1&sort=dd&shelf_id=0)
+- [Josua Meyer](https://www.youtube.com/user/HeatTransferUP/playlists)
 ### Control Theory/Control Systems
+- [Brian Douglas](https://www.youtube.com/playlist?list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk)
+- [Steve Brunton](https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw/videos)
+- [katkimshow](https://www.youtube.com/user/katkimshow/playlists)
 ### Electronics/Electrical
+- Razavi
+  - [Electronics](https://www.youtube.com/playlist?list=PL7qUW0KPfsIIOPOKL84wK_Qj9N7gvJX6v)
+  - [Electronics 2](https://www.youtube.com/playlist?list=PLm2lpI_krGU5p0EHm1MArCs4hb99KOVzp)
+- [Neso Academy](https://www.youtube.com/user/nesoacademy/playlists?view=50&sort=dd&shelf_id=8)
 ### Everything physics
+- [MIT OpenCourseWare](https://ocw-origin.odl.mit.edu/courses/find-by-topic/)
+- Michel van Biezen
+  - [Playlists](https://www.youtube.com/user/ilectureonline/playlists?view=58&flow=grid)
+  - [How to Find the Playlists on Physics.](https://www.youtube.com/playlist?list=PLX2gX-ftPVXWS5VpIQKmQerqthSmUTLtY)
+- [Lectures by Walter Lewin](https://www.youtube.com/channel/UCiEHVhv0SBMpP75JbzJShqw/playlists)
+- [Step-by-Step Science](https://www.youtube.com/user/bhswarthout/playlists)
+- [lasseviren1](https://www.youtube.com/user/lasseviren1/videos)
+- [Adam Beatty](https://www.youtube.com/user/youspinmerightrounds/playlists)
+- [TheBom_PE](https://www.youtube.com/channel/UCpDljJAHaKMakrQFFX5fRDg/playlists?view=1&sort=dd&shelf_id=0)
 
+<!-- Economy -->
 ## Economy
+- [The Organic Chemistry Tutor](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVN1xLJFMz7NlwTDaAa2Lbj)
+- [Engineer4Free](https://www.youtube.com/playlist?list=PLOAuB8dR35oeZR8OexafgBb0Y-nE3QqCP)
 
+<!-- Chemistry -->
 ## Chemistry
 ### Organic Chemistry
+- [The Organic Chemistry Tutor](https://www.youtube.com/playlist?list=PL0o_zxa4K1BU3gxU8RwqkEET2ilZ80Znj)
+- [Eliot Rintoul](https://www.youtube.com/user/MrERintoul/playlists?view=50&flow=grid&shelf_id=14)
+- [Leah4sci](https://www.youtube.com/user/Leah4SciTutorials/playlists)
 ### Inorganic Chemistry
+- [Eliot Rintoul](https://www.youtube.com/user/MrERintoul/playlists?view=50&flow=grid&shelf_id=14)
 ### Physical Chemistry
+- [Eliot Rintoul](https://www.youtube.com/user/MrERintoul/playlists?view=50&flow=grid&shelf_id=16)
+- [LearnChemE](https://www.youtube.com/playlist?list=PL4xAk5aclnUgmmVCVhlFKOs_dUR1z3CZ4)
 ### Everything chemistry
+- [LearnChemE](https://www.youtube.com/playlist?list=PL4xAk5aclnUi1CEFNwjcheMgyWe8BwuLS)
+- [TMP Chem](https://www.youtube.com/user/TMPChem/playlists)
+- [Professor Dave Explains](https://www.youtube.com/channel/UC0cd_-e49hZpWLH3UIwoWRA/playlists?view=1&sort=dd&shelf_id=0)
 
+<!-- Computer Science -->
 ## Computer Science
+- [Neso Academy](https://www.youtube.com/user/nesoacademy/playlists?view=50&sort=dd&shelf_id=13)
+
+<!-- Programmng -->
 ## Programming
 ### C
+- [Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM)
 ### C++
+- [thenewboston](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83)
 ### Java
+- [Derek Banas](https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19)
 ### Python
+- [sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the The Unlicense License. See `LICENSE` for more information.
+Distributed under the "The Unlicense" License. See `LICENSE` for more information.
