@@ -16,6 +16,7 @@
   * [Statistics](https://github.com/Vanillj/Youtube-courses-for-engineering-students#statistics)
   * [Discrete Math](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Discrete-Math)
   * [Complex Analysis](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Complex-Analysis)
+  * [Everything Mathematics](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Everything-Mathematics)
 * [Physics](#Physics)
   * [Statics](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Statics)
   * [Dynamics](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Dynamics)
@@ -89,13 +90,18 @@
   - [Statistics Playlist 1.](https://www.youtube.com/playlist?list=PL5901C68C96DFCAD1)
 - [MathDoctorBob](https://www.youtube.com/playlist?list=PL39A63114C97E5C10)
 - [The Organic Chemistry Tutor](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV)
+- [Khan Academy](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
 ### Discrete Math
 - TheTrevTutor
   - [Discrete Math 1.](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
   - [Discrete Math 2.](https://www.youtube.com/playlist?list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2)
 ### Complex Analysis
 - [MathsStatsUNSW](https://www.youtube.com/playlist?list=PLHjOMouVJ7UXj9RqccYzktlz9DQdE6l66)
-
+- [Petra Bonfert-Taylor](https://www.youtube.com/playlist?list=PLi7yHjesblV0sSfZzWdSUXGO683n_nJdQ)
+- [LetThereBeMath](https://www.youtube.com/playlist?list=PLw7aJpYJwwNXiaWcDPZpXqOsNal1LS29g)
+- [ritvikmath](https://www.youtube.com/playlist?list=PLvcbYUQ5t0UFmFXOLwC9BdZ5qghykd4gR)
+### Everything Mathematics
+- [Khan Academy](https://www.youtube.com/user/khanacademy/playlists?view=50&sort=dd&shelf_id=6)
 <!-- Physics -->
 ## Physics
 ### Statics
@@ -184,6 +190,7 @@
 ## Economy
 - [The Organic Chemistry Tutor](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVN1xLJFMz7NlwTDaAa2Lbj)
 - [Engineer4Free](https://www.youtube.com/playlist?list=PLOAuB8dR35oeZR8OexafgBb0Y-nE3QqCP)
+- [Khan Academy](https://www.youtube.com/user/khanacademy/playlists?view=50&flow=list&shelf_id=11)
 
 <!-- Chemistry -->
 ## Chemistry
@@ -200,11 +207,12 @@
 - [LearnChemE](https://www.youtube.com/playlist?list=PL4xAk5aclnUi1CEFNwjcheMgyWe8BwuLS)
 - [TMP Chem](https://www.youtube.com/user/TMPChem/playlists)
 - [Professor Dave Explains](https://www.youtube.com/channel/UC0cd_-e49hZpWLH3UIwoWRA/playlists?view=1&sort=dd&shelf_id=0)
-
+- [Khan Academy](https://www.youtube.com/user/khanacademy/playlists?view=50&flow=list&shelf_id=9)
 <!-- Computer Science -->
 ## Computer Science
 - [Neso Academy](https://www.youtube.com/user/nesoacademy/playlists?view=50&sort=dd&shelf_id=13)
 - [mycodeschool](https://www.youtube.com/user/mycodeschool/playlists)
+- [Khan Academy](https://www.youtube.com/user/khanacademy/playlists?view=50&flow=list&shelf_id=13)
 
 <!-- Programmng -->
 ## Programming
@@ -213,9 +221,12 @@
 - mycodeschool
   - [Introduction to Programming through 'C'](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLSqGsERZGXGkA5AfMhcknE)
   - [Pointers in C/C++](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_)
+  
 ### C++
 - [thenewboston](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83)
 - [mycodeschool: Pointers in C/C++](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_)
+- [The Cherno](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+
 ### Java
 - [Derek Banas](https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19)
 ### Python
