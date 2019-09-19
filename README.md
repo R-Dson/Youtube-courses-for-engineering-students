@@ -87,7 +87,8 @@
 - [MathDoctorBob](https://www.youtube.com/playlist?list=PLA7FDE7518E52863A)
 ### Statistics
 - Professor Leonard
-  - [Statistics Playlist 1.](https://www.youtube.com/playlist?list=PL5901C68C96DFCAD1)
+  - [Statistics Playlist 1](https://www.youtube.com/playlist?list=PL5901C68C96DFCAD1)
+  - [Statistics (Full Length Videos)](https://www.youtube.com/playlist?list=PL5102DFDC6790F3D0)
 - [MathDoctorBob](https://www.youtube.com/playlist?list=PL39A63114C97E5C10)
 - [The Organic Chemistry Tutor](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV)
 - [Khan Academy](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
