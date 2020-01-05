@@ -93,6 +93,7 @@
 - [The Organic Chemistry Tutor](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV)
 - [Khan Academy](https://www.youtube.com/playlist?list=PL1328115D3D8A2566)
 - [Brandon Foltz](https://www.youtube.com/user/BCFoltz/playlists)
+- [The Stats Files - Dawn Wright Ph.D.](https://www.youtube.com/channel/UCN9jJ__WlmK920O-wt-QMyA/playlists)
 ### Discrete Math
 - TheTrevTutor
   - [Discrete Math 1.](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
