@@ -198,7 +198,7 @@
 - [The Organic Chemistry Tutor](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVN1xLJFMz7NlwTDaAa2Lbj)
 - [Engineer4Free](https://www.youtube.com/playlist?list=PLOAuB8dR35oeZR8OexafgBb0Y-nE3QqCP)
 - [Khan Academy](https://www.youtube.com/user/khanacademy/playlists?view=50&flow=list&shelf_id=11)
-- [1sportingclays](https://www.youtube.com/user/1sportingclays/playlists)
+- [Economics in Many Lessons](https://www.youtube.com/user/1sportingclays/playlists)
 - [Policonomics](https://www.youtube.com/user/policonomicsvideos/playlists)
 - [Economicsfun](https://www.youtube.com/user/economicsfun/playlists)
 
