@@ -28,6 +28,7 @@
   * [Strength of Materials I](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Strength-of-Materials-I)
   * [Strength of Materials II](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Strength-of-Materials-II)
   * [Heat Transfer](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Heat-Transfer)
+  * [Signals and Systems](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Signals-and-Systems)
   * [Control Theory/Control Systems](https://github.com/Vanillj/Youtube-courses-for-engineering-students#control-theorycontrol-systems)
   * [Electronics/Electrical](https://github.com/Vanillj/Youtube-courses-for-engineering-students#electronicselectrical)
   * [Everything physics](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Everything-physics)
@@ -168,6 +169,8 @@
 - [LearnChemE](https://www.youtube.com/playlist?list=PL242066E80621CC10)
 - [Ron Hugo](https://www.youtube.com/channel/UCrRKDc1uHcif575CQexIA5Q/playlists?view=1&sort=dd&shelf_id=0)
 - [Josua Meyer](https://www.youtube.com/user/HeatTransferUP/playlists)
+### Signals and Systems
+- [MIT 6.003 Signals and Systems, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61kdPAOC7CzFjJZ8f1eMUxs)
 ### Control Theory/Control Systems
 - [Brian Douglas](https://www.youtube.com/playlist?list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk)
 - [Steve Brunton](https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw/videos)
