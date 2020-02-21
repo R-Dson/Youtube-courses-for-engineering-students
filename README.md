@@ -173,7 +173,7 @@
 - [MIT 6.003 Signals and Systems, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61kdPAOC7CzFjJZ8f1eMUxs)
 ### Control Theory/Control Systems
 - [Brian Douglas](https://www.youtube.com/playlist?list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk)
-- [Steve Brunton](https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw/videos)
+- [Steve Brunton](https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw/playlists)
 - [katkimshow](https://www.youtube.com/user/katkimshow/playlists)
 - [John Rossiter](https://www.youtube.com/channel/UCMBXZxd-j6VqrynykO1dURw/playlists)
 ### Electronics/Electrical
