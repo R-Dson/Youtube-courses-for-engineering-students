@@ -106,6 +106,7 @@
 - [ritvikmath](https://www.youtube.com/playlist?list=PLvcbYUQ5t0UFmFXOLwC9BdZ5qghykd4gR)
 ### Everything Mathematics
 - [Khan Academy](https://www.youtube.com/user/khanacademy/playlists?view=50&sort=dd&shelf_id=6)
+- [Daniel An](https://www.youtube.com/user/mathingsconsidered/playlists)
 <!-- Physics -->
 ## Physics
 ### Statics
