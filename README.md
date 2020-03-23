@@ -170,9 +170,14 @@
 - [LearnChemE](https://www.youtube.com/playlist?list=PL242066E80621CC10)
 - [Ron Hugo](https://www.youtube.com/channel/UCrRKDc1uHcif575CQexIA5Q/playlists?view=1&sort=dd&shelf_id=0)
 - [Josua Meyer](https://www.youtube.com/user/HeatTransferUP/playlists)
-### Signals and Systems
+### Signals and Systems/Signal processing
+- [Rich Radke](https://www.youtube.com/user/rjradke1/playlists)
+- [Barry Van Veen](https://www.youtube.com/user/allsignalprocessing)
 - [MIT 6.003 Signals and Systems, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61kdPAOC7CzFjJZ8f1eMUxs)
-- [Iman - signal processing 101](https://www.youtube.com/playlist?list=PLJ-OcUCIty7evBmHvYRv66RcuziszpSFB)
+- [MIT OpenCourseWare, MIT RES.6.007 Signals and Systems, 1987](https://www.youtube.com/playlist?list=PL41692B571DD0AF9B)
+- [Iman, signal processing 101](https://www.youtube.com/playlist?list=PLJ-OcUCIty7evBmHvYRv66RcuziszpSFB)
+- [MIT RES.6-008 Digital Signal Processing, 1975](https://www.youtube.com/playlist?list=PL8157CA8884571BA2)
+- [technocrusader, NPTEL - Digital Signal Processing](https://www.youtube.com/playlist?list=PL4DC5834F2789B825)
 ### Control Theory/Control Systems
 - [Brian Douglas](https://www.youtube.com/playlist?list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk)
 - [Steve Brunton](https://www.youtube.com/channel/UCm5mt-A4w61lknZ9lCsZtBw/playlists)
