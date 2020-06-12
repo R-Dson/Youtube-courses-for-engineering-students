@@ -107,6 +107,7 @@
 ### Everything Mathematics
 - [Khan Academy](https://www.youtube.com/user/khanacademy/playlists?view=50&sort=dd&shelf_id=6)
 - [Daniel An](https://www.youtube.com/user/mathingsconsidered/playlists)
+- [The Math Sorcerer](https://www.youtube.com/user/themathsorcerer/playlists)
 <!-- Physics -->
 ## Physics
 ### Statics
