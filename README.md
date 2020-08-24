@@ -79,6 +79,7 @@
 ### Linear Algebra
 - [patrickJMT](https://www.youtube.com/playlist?list=PLAFEC355DFEADC30C)
 - [MIT Linear Algebra Lectures (Prof. Gilbert Strang)](https://www.youtube.com/playlist?list=PL41A1C92F1766D4AB)
+- [MIT A 2020 Vision of Linear Algebra, Spring 2020. (Prof. Gilbert Strang)](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)
 - [MathDoctorBob](https://www.youtube.com/playlist?list=PL774A268635BA8AAD)
 - [3B1B](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 ### Differential Equations
@@ -86,6 +87,7 @@
 - [Professor Leonard](https://www.youtube.com/playlist?list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_)
 - [3B1B](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
 - [MathDoctorBob](https://www.youtube.com/playlist?list=PLA7FDE7518E52863A)
+- [Faculty of Khan](https://www.youtube.com/playlist?list=PLdgVBOaXkb9Ab7UM8sCfQWgdbzxkXTNVD)
 ### Statistics
 - Professor Leonard
   - [Statistics Playlist 1](https://www.youtube.com/playlist?list=PL5901C68C96DFCAD1)
