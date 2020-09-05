@@ -31,6 +31,7 @@
   * [Signals and Systems/Signal processing](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Signals-and-Systems)
   * [Control Theory/Control Systems](https://github.com/Vanillj/Youtube-courses-for-engineering-students#control-theorycontrol-systems)
   * [Electronics/Electrical](https://github.com/Vanillj/Youtube-courses-for-engineering-students#electronicselectrical)
+  * [Electrodynamics](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Electrodynamics)
   * [Everything physics](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Everything-physics)
 * [Economy](#Economy)
 * [Chemistry](#Chemistry)
@@ -191,6 +192,8 @@
   - [Electronics](https://www.youtube.com/playlist?list=PL7qUW0KPfsIIOPOKL84wK_Qj9N7gvJX6v)
   - [Electronics 2](https://www.youtube.com/playlist?list=PLm2lpI_krGU5p0EHm1MArCs4hb99KOVzp)
 - [Neso Academy](https://www.youtube.com/user/nesoacademy/playlists?view=50&sort=dd&shelf_id=8)
+### Electrodynamics
+- [Real Physics](https://www.youtube.com/playlist?list=PLDDEED00333C1C30E)
 ### Everything physics
 - [MIT OpenCourseWare](https://ocw-origin.odl.mit.edu/courses/find-by-topic/)
 - Michel van Biezen
