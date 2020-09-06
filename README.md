@@ -64,7 +64,7 @@
 - [Krista King](https://www.youtube.com/user/TheIntegralCALC/playlists?view=50&flow=grid&shelf_id=22)
 - [Jamie Mulholland](https://www.youtube.com/channel/UCOZJyVA526SlYB7e-p5RRMg/playlists?view=50&sort=dd&shelf_id=6)
 - [NancyPi](https://www.youtube.com/channel/UCRGXV1QlxZ8aucmE45tRx8w/playlists)
-- [Calculus](https://www.youtube.com/playlist?list=PL3D84EE58BB0EAB45)
+- [Engineer4Free](https://www.youtube.com/playlist?list=PL3D84EE58BB0EAB45)
 ### Calculus II
 - [patrickJMT](https://www.youtube.com/playlist?list=PLD371506BCA23A437)
 - [Professor Leonard](https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-)
