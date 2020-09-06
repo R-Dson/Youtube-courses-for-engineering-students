@@ -27,11 +27,14 @@
   * [Fluid Mechanics II](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Fluid-Mechanics-II)
   * [Strength of Materials I](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Strength-of-Materials-I)
   * [Strength of Materials II](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Strength-of-Materials-II)
+  * [Mechanical Vibrations](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Mechanical-Vibrations)
+  * [Stress Analysis](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Stress-Analysis)
   * [Heat Transfer](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Heat-Transfer)
   * [Signals and Systems/Signal processing](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Signals-and-Systems)
   * [Control Theory/Control Systems](https://github.com/Vanillj/Youtube-courses-for-engineering-students#control-theorycontrol-systems)
   * [Electronics/Electrical](https://github.com/Vanillj/Youtube-courses-for-engineering-students#electronicselectrical)
   * [Electrodynamics](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Electrodynamics)
+  * [Astrodynamics](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Astrodynamics)
   * [Everything physics](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Everything-physics)
 * [Economy](#Economy)
 * [Chemistry](#Chemistry)
@@ -61,6 +64,7 @@
 - [Krista King](https://www.youtube.com/user/TheIntegralCALC/playlists?view=50&flow=grid&shelf_id=22)
 - [Jamie Mulholland](https://www.youtube.com/channel/UCOZJyVA526SlYB7e-p5RRMg/playlists?view=50&sort=dd&shelf_id=6)
 - [NancyPi](https://www.youtube.com/channel/UCRGXV1QlxZ8aucmE45tRx8w/playlists)
+- [Calculus](https://www.youtube.com/playlist?list=PL3D84EE58BB0EAB45)
 ### Calculus II
 - [patrickJMT](https://www.youtube.com/playlist?list=PLD371506BCA23A437)
 - [Professor Leonard](https://www.youtube.com/playlist?list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-)
@@ -83,12 +87,14 @@
 - [MIT A 2020 Vision of Linear Algebra, Spring 2020. (Prof. Gilbert Strang)](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)
 - [MathDoctorBob](https://www.youtube.com/playlist?list=PL774A268635BA8AAD)
 - [3B1B](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Engineer4Free](https://www.youtube.com/playlist?list=PL2C8B5877FC12E315)
 ### Differential Equations
 - [patrickJMT](https://www.youtube.com/playlist?list=PLD4B0062CA82D73FB)
 - [Professor Leonard](https://www.youtube.com/playlist?list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_)
 - [3B1B](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
 - [MathDoctorBob](https://www.youtube.com/playlist?list=PLA7FDE7518E52863A)
 - [Faculty of Khan](https://www.youtube.com/playlist?list=PLdgVBOaXkb9Ab7UM8sCfQWgdbzxkXTNVD)
+- [Engineer4Free](https://www.youtube.com/playlist?list=PLOAuB8dR35oe_Uf6AxT36tYKQy-Lv9Rwe)
 ### Statistics
 - Professor Leonard
   - [Statistics Playlist 1](https://www.youtube.com/playlist?list=PL5901C68C96DFCAD1)
@@ -164,10 +170,15 @@
 - [CPPMechEngTutorials](https://www.youtube.com/playlist?list=PLZOZfX_TaWAEg1XjZ1fkUxT0XMB_Nq7hV)
 - [structurefree](https://www.youtube.com/playlist?list=PLCBF826FE563C57B0)
 - [UWMC Engineering](https://www.youtube.com/playlist?list=PLmjeuPDHP7zCvwGxZUxQcmRxMFdP5DQOh)
+- [Engineer4Free](https://www.youtube.com/playlist?list=PLOAuB8dR35oft2ZLc1sHseypNMAiG_TeJ)
 ### Strength of Materials II
 - [CPPMechEngTutorials](https://www.youtube.com/playlist?list=PLZOZfX_TaWAEf5gEjbpazpRTVp2-OzJEv)
 - [structurefree](https://www.youtube.com/playlist?list=PLCBF826FE563C57B0)
 - [UWMC Engineering](https://www.youtube.com/playlist?list=PLmjeuPDHP7zCvwGxZUxQcmRxMFdP5DQOh)
+### Mechanical Vibrations
+- [Mohammad Noori](https://www.youtube.com/playlist?list=PLWqFWuIMqmHTBPgqwabliwB4EOR02nMr-)
+### Stress Analysis
+- [CPPMechEngTutorials](https://www.youtube.com/playlist?list=PLZOZfX_TaWAHfpBzrqHBNjd9G1_SxMvfr)
 ### Heat Transfer
 - [CPPMechEngTutorials](https://www.youtube.com/playlist?list=PLZOZfX_TaWAE6nTX50dJl0Jia8iQTIhrG)
 - [Randall Manteufel](https://www.youtube.com/playlist?list=PL_ZIJMd-rNhUm2lvq1GY21Y8U5mJnDdAH)
@@ -193,7 +204,9 @@
   - [Electronics 2](https://www.youtube.com/playlist?list=PLm2lpI_krGU5p0EHm1MArCs4hb99KOVzp)
 - [Neso Academy](https://www.youtube.com/user/nesoacademy/playlists?view=50&sort=dd&shelf_id=8)
 ### Electrodynamics
-- [Real Physics](https://www.youtube.com/playlist?list=PLDDEED00333C1C30E)
+- [Real Physics](https://www.youtube.com/playlist?list=PLOIRBaljOV8gn074rWFWYP1dCr2dJqWab)
+### Astrodynamics
+- [Alfonso Gonzalez](https://www.youtube.com/playlist?list=PLDDEED00333C1C30E)
 ### Everything physics
 - [MIT OpenCourseWare](https://ocw-origin.odl.mit.edu/courses/find-by-topic/)
 - Michel van Biezen
@@ -249,6 +262,7 @@
 - [thenewboston](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83)
 - [mycodeschool: Pointers in C/C++](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_)
 - [The Cherno](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+- [Engineer4Free](https://www.youtube.com/playlist?list=PLOAuB8dR35ocZ2YtaGzhJetZqLW2J3s5Z)
 
 ### Java
 - [Derek Banas](https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19)
