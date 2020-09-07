@@ -206,7 +206,7 @@
 ### Electrodynamics
 - [Real Physics](https://www.youtube.com/playlist?list=PLOIRBaljOV8gn074rWFWYP1dCr2dJqWab)
 ### Astrodynamics
-- [Alfonso Gonzalez](https://www.youtube.com/playlist?list=PLDDEED00333C1C30E)
+- [Alfonso Gonzalez](https://www.youtube.com/playlist?list=PLOIRBaljOV8gn074rWFWYP1dCr2dJqWab)
 ### Everything physics
 - [MIT OpenCourseWare](https://ocw-origin.odl.mit.edu/courses/find-by-topic/)
 - Michel van Biezen
