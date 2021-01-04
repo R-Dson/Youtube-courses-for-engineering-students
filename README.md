@@ -16,6 +16,7 @@
   * [Statistics](https://github.com/Vanillj/Youtube-courses-for-engineering-students#statistics)
   * [Discrete Math](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Discrete-Math)
   * [Complex Analysis](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Complex-Analysis)
+  * [Numerical Methods](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Numerical-Methods)
   * [Everything Mathematics](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Everything-Mathematics)
 * [Physics](#Physics)
   * [Statics](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Statics)
@@ -113,6 +114,8 @@
 - [Petra Bonfert-Taylor](https://www.youtube.com/playlist?list=PLi7yHjesblV0sSfZzWdSUXGO683n_nJdQ)
 - [LetThereBeMath](https://www.youtube.com/playlist?list=PLw7aJpYJwwNXiaWcDPZpXqOsNal1LS29g)
 - [ritvikmath](https://www.youtube.com/playlist?list=PLvcbYUQ5t0UFmFXOLwC9BdZ5qghykd4gR)
+### Numerical Methods
+- [Chris Rycroft - Harvard Applied Math 205](https://www.youtube.com/playlist?list=PL43IQ71lgJytIqhiJ6v5lNswFKeQ9952K)
 ### Everything Mathematics
 - [Khan Academy](https://www.youtube.com/user/khanacademy/playlists?view=50&sort=dd&shelf_id=6)
 - [Daniel An](https://www.youtube.com/user/mathingsconsidered/playlists)
