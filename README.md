@@ -17,6 +17,7 @@
   * [Discrete Math](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Discrete-Math)
   * [Complex Analysis](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Complex-Analysis)
   * [Numerical Methods](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Numerical-Methods)
+  * [Set Theory/Metric Spaces](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Set-TheoryMetric-Spaces)
   * [Everything Mathematics](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Everything-Mathematics)
 * [Physics](#Physics)
   * [Statics](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Statics)
@@ -116,6 +117,10 @@
 - [ritvikmath](https://www.youtube.com/playlist?list=PLvcbYUQ5t0UFmFXOLwC9BdZ5qghykd4gR)
 ### Numerical Methods
 - [Chris Rycroft - Harvard Applied Math 205](https://www.youtube.com/playlist?list=PL43IQ71lgJytIqhiJ6v5lNswFKeQ9952K)
+### Set Theory/Metric Spaces
+- [Dr. Trefor Bazett](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
+- [The Math Sorcerer](https://www.youtube.com/playlist?list=PLO1y6V1SXjjOB2dPU5NX6CUG5l6258NVL)
+- [Elliot Nicholson](https://www.youtube.com/playlist?list=PLAvgI3H-gclZa-DVTMyUIAxM-X8NSikwu)
 ### Everything Mathematics
 - [Khan Academy](https://www.youtube.com/user/khanacademy/playlists?view=50&sort=dd&shelf_id=6)
 - [Daniel An](https://www.youtube.com/user/mathingsconsidered/playlists)
