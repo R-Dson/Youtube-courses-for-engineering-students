@@ -37,6 +37,7 @@
   * [Electronics/Electrical](https://github.com/Vanillj/Youtube-courses-for-engineering-students#electronicselectrical)
   * [Electrodynamics](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Electrodynamics)
   * [Astrodynamics](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Astrodynamics)
+  * [Finite Element Methods](https://github.com/Vanillj/Youtube-courses-for-engineering-students#finite-element-methods)
   * [Everything physics](https://github.com/Vanillj/Youtube-courses-for-engineering-students#Everything-physics)
 * [Economy](#Economy)
 * [Chemistry](#Chemistry)
@@ -215,6 +216,8 @@
 - [Real Physics](https://www.youtube.com/playlist?list=PLOIRBaljOV8gn074rWFWYP1dCr2dJqWab)
 ### Astrodynamics
 - [Alfonso Gonzalez](https://www.youtube.com/playlist?list=PLOIRBaljOV8gn074rWFWYP1dCr2dJqWab)
+### Finite Element Methods
+- [openmichigan](https://www.youtube.com/playlist?list=PLJhG_d-Sp_JHKVRhfTgDqbic_4MHpltXZ)
 ### Everything physics
 - [MIT OpenCourseWare](https://ocw-origin.odl.mit.edu/courses/find-by-topic/)
 - Michel van Biezen
