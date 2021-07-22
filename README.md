@@ -218,6 +218,7 @@
 - [Alfonso Gonzalez](https://www.youtube.com/playlist?list=PLOIRBaljOV8gn074rWFWYP1dCr2dJqWab)
 ### Finite Element Methods
 - [openmichigan](https://www.youtube.com/playlist?list=PLJhG_d-Sp_JHKVRhfTgDqbic_4MHpltXZ)
+- [Schuster Engineering](https://www.youtube.com/playlist?list=PLBwQ5Llf4Q_Vj8xKcxsbzIfdqrtzcHLbe)
 ### Everything physics
 - [MIT OpenCourseWare](https://ocw-origin.odl.mit.edu/courses/find-by-topic/)
 - Michel van Biezen
